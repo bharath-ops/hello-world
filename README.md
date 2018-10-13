@@ -2,4 +2,8 @@
 
 Just another repo
 My first edit.
+<<<<<<< HEAD
 My second edit.
+=======
+Updated Master branch.
+>>>>>>> master
